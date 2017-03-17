@@ -1,0 +1,38 @@
+h1{
+}
+
+.profImg{
+    width: 220px;
+    padding: 10px;
+    border: 5px solid rgb(0, 0, 128);
+    border-bottom-color: red;
+    border-collapse: 20%;
+    margin: 0;
+    display: block;
+    float:center ;
+    border-radius: 90%;
+}
+
+.box{
+    background-color: rgb(83, 140, 198)  ;
+    color-rendering: 40%;
+    display: inline-block;
+  	width: 25%;
+    height: 500px;
+    padding: 25px;
+    overflow: auto;
+}
+
+.discription{
+	display:block;
+	float: right;
+	overflow :hide;
+	position: fixed;
+}
+
+.boxes{
+    float:center ;
+
+}
+
+
